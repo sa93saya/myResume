@@ -124,31 +124,34 @@ html{
   fullMarkdown: `周莎
 ----
 
-资深前端工程师，资深前端讲师，现在在 [饥人谷](http://jirengu.com) 教前端课程。
+* **北京邮电大学**  计算机学院  2016.9-至今（2019.7）
+> 计算机技术 硕士
+* **中国农业大学**  信息与电气工程学院  2012.9-2016.7
+> 计算机科学与技术  学士  GPA3.63/4.0  排名2/30
 
 技能
 ----
 
-* 前端开发
-* Rails 开发
-* Node.js 开发
-* 前端授课
+* HTML、CSS、JavaScript
+* jQuery、Boostrap
+* git、webpack、nodejs
+* angular1、vue2
 
-工作经历
+实习经历
 ----
 
-1. [饥人谷](http://jirengu.com)
-2. 腾讯即时通讯平台部
-3. 阿里巴巴B2B部门
-4. 彩程知人项目组
+1. 搜狐焦点 生态平台部 前端开发实习生
+2. 百度 搜索生态质量部 前端开发实习生
 
-链接
+实践经验
 ----
 
-* [GitHub](https://github.com/frankfang)
-* [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
+* [2048小游戏](https://sa93saya.github.io/2048/)
 
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
+自我评价
+----
+
+> 喜欢新技术、新产品，对前端开发有浓厚的兴趣和热情。做事认真负责，遇到问题沉着冷静，工作态度积极稳重，为人踏实诚恳。
 
 `
     }
