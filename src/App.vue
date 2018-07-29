@@ -134,7 +134,7 @@ html{
 
 * HTML、CSS、JavaScript
 * jQuery、Boostrap
-* git、webpack、nodejs
+* git、webpack、nodejs、requirejs、es6
 * angular1、vue2
 
 实习经历
