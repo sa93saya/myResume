@@ -29,7 +29,7 @@ export default {
       currentStyle:'',
       fullStyle:[
           `/*
-* Inspired by http://strml.net/
+
 * 大家好，我是周莎
 * 这是我的动态简历！
 */
